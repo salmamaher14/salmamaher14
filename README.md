@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salma Maher Hafez Sayed (Native Mobile Application Developer (Android & iOS))
 - 👀 I’m interested in Mobile Applications Development.
-- 🌱 I’m currently on ITI-9 Month Professional Training Program , Smart Village 
+- 🌱 I’m ITI-9 month professional training program graduate.
 - 💞️ I’m looking to collaborate on any Mobile App Development Android Or iOS
 
 
