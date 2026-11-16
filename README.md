@@ -30,6 +30,8 @@ I build iOS apps with **Swift**, **SwiftUI**, and **UIKit**, and I enjoy turning
 - **Maps & GIS:** ArcGIS Runtime SDK
 - **Tools:** Trello, Figma, GitHub
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=salmamaher14&theme=dark)
+
 ## 🤝 Let's Build Something Together
 
 Have an idea you'd like to turn into a mobile app or a digital solution? I'd love to hear about it. Feel free to reach out and let's make it happen!
